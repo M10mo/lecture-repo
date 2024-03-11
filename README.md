@@ -8,3 +8,7 @@ Use the git clone command and then attach the SSH link in order to clone it down
 
 October 4th, 2023
 My favorite flavor of ice cream is chocolate ice cream. 
+git add
+git commit -m""
+git push
+git status
